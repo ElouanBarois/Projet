@@ -22,5 +22,33 @@ des jolie engrenage et un chat par personne
 ## Amelioration
 - [ ] trouver des fée esclave
 - [ ] soudoyer des oiseaux
-- [ ] trouver des revendeur de poudre magique
+- [ ] trouver des revendeur de poudre magique qui fait voir des etoiles (barbes)
+
+## Un plan d'action
+
+1. Préparation de l'armée féerique :
+
+   * Rassemblez vos amis fées et mobilisez-les pour la cause. Expliquez-leur votre vision de changement et inspirez-les à se joindre à vous.
+   * Identifiez les compétences et les forces de chacun de vos amis fées. Créez une équipe diversifiée capable d'aborder différents aspects de la révolution.
+
+2.Développement d'une stratégie :
+
+   * Analysez les défis auxquels l'humanité est confrontée et identifiez les domaines où vous pouvez apporter un impact positif.
+   * Développez une stratégie détaillée pour atteindre vos objectifs. Identifiez les étapes clés, les ressources nécessaires et les indicateurs de succès.
+
+3. Infiltration et sensibilisation :
+
+   * Utilisez vos pouvoirs féériques pour vous infiltrer dans les communautés humaines et susciter l'intérêt pour votre cause.
+   * Organisez des événements, des ateliers ou des campagnes de sensibilisation pour informer les gens sur les enjeux et les inciter à agir.
+
+4. Action et engagement :
+
+   * Lancez des actions concrètes pour apporter des changements positifs. Cela pourrait inclure des projets de bénévolat, des campagnes de collecte de fonds ou des initiatives de sensibilisation.
+   * Impliquez activement les membres de votre armée féerique et encouragez-les à agir individuellement et collectivement pour réaliser la vision commune.
+
+5. Expansion et durabilité :
+
+   * Étendez votre influence et votre impact en travaillant avec d'autres communautés et organisations partageant les mêmes idéaux.
+   * Assurez-vous que votre mouvement est durable en établissant des structures et des processus qui permettent de maintenir l'élan et de pérenniser les changements positifs.
+
 
