@@ -19,3 +19,8 @@ Que la révolution commence !
 ## contribution financiere requise
 des jolie engrenage et un chat par personne
 
+## Amelioration
+- [ ] trouver des fée esclave
+- [ ] soudoyer des oiseaux
+- [ ] trouver des revendeur de poudre magique
+
