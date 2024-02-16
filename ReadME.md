@@ -16,3 +16,6 @@ Je vous invite à vous joindre à moi dans cette révolution. Ouvrons nos esprit
 
 Que la révolution commence !
 
+## contribution financiere requise
+des jolie engrenage et un chat par personne
+
